@@ -14,7 +14,7 @@ Both implementations enforce two spatial invariants:
 1. **Distance Bounds ($[d_{\min}, d_{\max}]$):** Every displaced point lies within an annular ring (donut buffer) defined by an inner radius $d_{\min}$ and an outer radius $d_{\max}$ centered on the original coordinate.
 2. **Administrative Boundary Restriction:** The displaced location cannot cross the parent administrative unit (e.g., concatenated `ADMIN1` + `ADMIN2`).
 
-![Annular Constrained Displacement Diagram](./resources/illustrated-workflow-svg.svg)
+![Annular Constrained Displacement Diagram](./resources/illustrated-workflow.jpg)
 
 ---
 
