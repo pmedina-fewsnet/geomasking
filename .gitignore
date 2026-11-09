@@ -1,0 +1,20 @@
+# Directories
+.backups/
+.ipynb_checkpoints/
+GpMessages/
+ImportLog/
+Testing/
+Script/
+
+# Geodatabases
+*.gdb
+
+# PDFs
+*.pdf
+
+# ArcGIS
+*.aprx
+*.atbx
+
+# Tests
+*.ipynb
