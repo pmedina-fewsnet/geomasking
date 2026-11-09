@@ -100,7 +100,7 @@ The interactive terminal will prompt for the required arguments:
    * **Output directory:** Folder where `Displacement_output.csv` will be written.
 5. Click **Run**.
 
-![ArcGIS Toolbox](resources/arcgis-tool.png)
+<img src="resources/arcgis-tool.png" alt="ArcGIS Toolbox" width="300" />
 
 ---
 
